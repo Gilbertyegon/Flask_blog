@@ -63,11 +63,11 @@ After extracting the files,
 > * As a writer, I would like to Logout of my account.
 
 ## Test Credentials
-> * username: admin
+> * email: planetmoses12@gmail.com
 > * Password: admin
 
 ## License
 > MIT License &copy; 2022 GILBERT YEGON
 
 ## Collaborate
-To collaborate, reach me on [robertlagat38@gmail.com()
+To collaborate, reach me on [bravoyegon@gmail.com()
